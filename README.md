@@ -74,6 +74,7 @@ pip install numpy pandas scikit-learn matplotlib seaborn tensorflow
 - Each model is cleared from memory after evaluation.
 - VotingClassifier combines KNN, Logistic Regression, and Random Forest.
 
-## Author
 
-– [@kssrikar4](https://github.com/kssrikar4)
+This Notebook demonstrates the effectiveness of a diverse set of machine learning and deep learning models on the MNIST digit classification problem. While all models performed well, the Convolutional Neural Network (CNN) achieved the highest accuracy at 98.64%, confirming its superiority for image-based tasks.
+
+Classical models like KNN and Random Forest also delivered strong results, and the ensemble Voting Classifier offered a balanced and stable alternative. This highlights that both traditional and modern approaches can be effective, depending on the use case and computational constraints.
