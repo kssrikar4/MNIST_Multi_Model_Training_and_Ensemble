@@ -59,7 +59,7 @@ pip install numpy pandas scikit-learn matplotlib seaborn tensorflow
 
 1. Clone the repo:
     ```bash
-    git clone [https://github.com/kssrikar4/MNIST_Multi_Model_Training_and_Ensemble.git](https://github.com/kssrikar4/MNIST_Multi_Model_Training_and_Ensemble.git)
+    git clone https://github.com/kssrikar4/MNIST_Multi_Model_Training_and_Ensemble.git
     cd mnist-multi-model-ensemble
     ```
 
